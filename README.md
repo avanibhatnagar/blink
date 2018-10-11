@@ -18,6 +18,9 @@ $ sudo apt-get install libboost-all-dev
 
 What is shape_predictor_68_face_landmarks.dat? dlib's facial landmark detector
 
+Might need to install - imutils : pip install imutils, dlib, 
+
+
 Installation instructions reference: https://www.pyimagesearch.com/2017/03/27/how-to-install-dlib/
 Reference for shape_predictor_68_face_landmarks.dat : https://github.com/AKSHAYUBHAT/TensorFace/tree/master/openface/models/dlib
 
